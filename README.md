@@ -1,7 +1,6 @@
 <div>
   <img width="220" height="auto" align="left" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"/>
   <img width="220" height="auto" align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"/>
-<div class="container">
   <div class="stack" style="--stacks: 3;">
     <span style="--index: 0;">Sρecƚɾo̶</span>
     <span style="--index: 1;">Sρecƚɾo̶</span>
