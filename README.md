@@ -1,6 +1,6 @@
 <div>
   <img width="220" height="auto" align="left" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"/>
   <br>
-  <h1> respite HTTP injector</h1>
-  <p> “As we've come to realize, the idea that security starts and ends with the purchase of a prepackaged firewall is simply misguided.”</p>
+  <h1> </h1>
+  <p> </p>
 </div>
